@@ -29,4 +29,5 @@ I created this to outline what on average it costs me to develop OSS. While it w
 - My time, I dont calculate the cost of time but i spend roughly 20hrs average per week on OSS development. 
 - Utilities & housing, running computers & living & etc. 
 - Food and other things to sustain myself. 
+- Education, Ive gotten a Bachelors and Masters in stem fields & spend loads of time and money to continue my education. 
 
