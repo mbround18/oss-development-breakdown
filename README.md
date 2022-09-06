@@ -10,7 +10,7 @@ I created this to outline what on average it costs me to develop OSS. While it w
 |----|----|--------|-------------|
 |GitHub Pro| 4 USD | Monthly | Additional features and higher limits help a lot when developing the number of repos I do.|
 |DockerHub Pro|5 USD | Monthly | Pro features are super useful for aid in some of my bigger repos like vulnerability scanning and image inspections.|
-|Dedicated Servers|50 USD| Monthly | A dedicated server setup to serve as my playground for development projects and host production grade projects when they are completed. IE [My valheim project has 3 servers running on these systems.](https://github.com/mborund18/valheim-docker)|
+|Dedicated Servers|50 USD| Monthly | A dedicated server setup to serve as my playground for development projects and host production grade projects when they are completed. IE [My valheim project has 3 servers running on these systems.](https://github.com/mbround18/valheim-docker)|
 | IDE | 249 USD | Yearly | While there are free editors and I do use them from time to time, its hard to beat the integrations currently available on IntelliJ |
 | Dbeaver | 23 USD | Monthly | There is no better IDE for databases on the market in my opinion | 
 | AWS/Azure/Google Cloud/B2 Backblaze | 27 USD | Monthly | Backups, static sites, databases, etc |
