@@ -24,10 +24,11 @@ I created this to outline what on average it costs me to develop OSS. While it w
 - [K8sLens](https://github.com/lensapp/lens)
 
 
-## Whats not included in monthly costs
+## Whats not included in calculations but still costs money
 
 - My time, I dont calculate the cost of time but i spend roughly 20hrs average per week on OSS development. 
 - Utilities & housing, running computers & living & etc. 
 - Food and other things to sustain myself. 
-- Education, Ive gotten a Bachelors and Masters in stem fields & spend loads of time and money to continue my education. 
+- Education, Ive gotten a Bachelors and Masters in stem fields & spend loads of time and money to continue my education.
+- Hardware and other technology top develop
 
