@@ -1,36 +1,45 @@
 # OSS Development Cost Breakdown
 
-Breakdown of my monthly Open Source development costs. 
+A concise breakdown of my recurring Open Source development costs.
 
-I created this to outline what on average it costs me to develop OSS. While it would be nice to break even with sponsors, I do OSS for fun & not for money. This is more informational for anyone who chooses to follow in my footsteps. 
+This document outlines the typical monthly and annual costs I incur while developing OSS. I do this for fun rather than for profit; this is informational for anyone looking to understand the realistic costs of running OSS projects.
 
 ## What I Pay For
 
-| Name                           | Cost  | Interval | Justification                                                                                         |
-|--------------------------------|-------|----------|-------------------------------------------------------------------------------------------------------|
-| GitHub Pro                     | 4 USD | Monthly  | Additional features and higher limits help a lot when developing the number of repos I do.             |
-| DockerHub Pro                  | 5 USD | Monthly  | Pro features are super useful for aid in some of my bigger repos like vulnerability scanning and image inspections. |
-| Dedicated Servers              | 175 USD | Monthly  | A dedicated server setup to serve as my playground for development projects and host production grade projects when they are completed. IE [My valheim project has 3 servers running on these systems.](https://github.com/mbround18/valheim-docker) |
-| IDE                            | 249 USD | Yearly   | While there are free editors and I do use them from time to time, it's hard to beat the integrations currently available on IntelliJ. |
-| Dbeaver                        | 23 USD | Monthly  | There is no better IDE for databases on the market in my opinion.                                      |
-| AWS/Azure/Google Cloud/B2 Backblaze | 27 USD | Monthly  | Backups, static sites, databases, etc.                                                                |
+| Name                                      | Cost    | Interval | Justification                                                                       |
+| ----------------------------------------- | ------- | -------- | ----------------------------------------------------------------------------------- |
+| GitHub Pro                                | 4 USD   | Monthly  | Additional features and higher repo limits.                                         |
+| DockerHub Pro                             | 108 USD | Yearly   | Pro features (vulnerability scanning, image inspections). (≈ 9 USD / month)         |
+| Dedicated Servers                         | 98 USD  | Monthly  | Hosting for development and production; increased capacity since previous estimate. |
+| AI Services (base)                        | 10 USD  | Monthly  | Base AI subscription.                                                               |
+| AI Premium Budget (optional)              | 50 USD  | Monthly  | Optional additional budget for premium requests (not required).                     |
+| Git LFS                                   | ~15 USD | Monthly  | Large file storage for repository assets.                                           |
+| Cloud Services (AWS/Azure/GCP, Backblaze) | 27 USD  | Monthly  | Backups, static sites, databases, etc.                                              |
+| Cloudflare (addons)                       | 30 USD  | Monthly  | Performance / security add-ons.                                                     |
+| Domains                                   | 100 USD | Yearly   | Domain registrations and renewals.                                                  |
 
-*Yearly Cost*: 2,537 USD
+**Previously paid (no longer active):** IntelliJ (249 USD / year), DBeaver (23 USD / month) — removed from current totals.
 
-## Tools that Don't Require Money
+**Estimated monthly total (current)**: **~193 USD / month** (mandatory line items)
 
-### Open Source Tools
+**Estimated monthly total (with optional AI premium):** **~243 USD / month**
 
-- [OpenLens](https://github.com/MuhammedKalkan/OpenLens)
-- [kubectx](https://github.com/ahmetb/kubectx): Faster way to switch between clusters and namespaces in kubectl
-- [croc](https://github.com/schollz/croc): Easily and securely send things from one computer to another 🐊 📦
-- [uv](https://github.com/astral-sh/uv): An extremely fast Python package installer and resolver, written in Rust
-- [ruff](https://github.com/astral-sh/ruff): An extremely fast Python linter and code formatter, written in Rust
+**Estimated annual total (current)**: **~2,416 USD / year** (12 × monthly + domains)
 
-## What's Not Included in Calculations but Still Costs Money
+**Estimated annual total (with optional AI premium):** **~3,016 USD / year**
 
-- My time: I don't calculate the cost of time but I spend roughly 20 hours average per week on OSS development.
-- Utilities & housing: Running computers, living, etc.
-- Food and other things to sustain myself.
-- Education: I've gotten a Bachelor's and Master's in STEM fields and spend loads of time and money to continue my education.
-- Hardware and other technology to develop.
+## Free / Open Source Tools
+
+### Examples
+
+- [K8sLens](https://github.com/lensapp/lens)
+
+## Notes: what's not included in these calculations
+
+- **My time** — I don't include the value of my time (I spend ~20 hours/week on OSS).
+- **Utilities & housing** — electricity, internet, and other home expenses.
+- **Personal expenses** — food, etc.
+- **Education** — degrees, courses, conferences, and continuing education.
+- **Hardware** — development machines, peripherals, and upgrades.
+
+> These estimates are approximate and rounded; costs can vary month-to-month depending on usage and occasional add-ons.
